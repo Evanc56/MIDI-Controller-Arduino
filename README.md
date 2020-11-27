@@ -7,5 +7,4 @@ The readCapacitance function senses if anything is touching the capacitive senso
 The readRotation function senses the rotary encoder's raw displacement over a set interval, and uses it to calculate the wheel’s rotational velocity. Based on the velocity, the correct MIDI message is sent to indicate the speed and direction of the wheel’s rotation.
 
 Developed by:
-Evan Costello,
-Matthew Miceli
+Evan Costello, Matthew Miceli, and Dylan Larkin
